@@ -838,3 +838,21 @@ body {
   transition: all 0.2s ease;
 }
 
+/* --- ПІДСВІТКА РІДКОСТІ ДЛЯ МАГАЗИНУ --- */
+.store-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 80%;
+  height: 3px;
+  border-radius: 3px 3px 0 0;
+}
+
+/* Кольори для різних рівнів рідкості */
+.store-card.covert::after { background-color: #eb4b4b; }     /* Таємне (Червоний) */
+.store-card.classified::after { background-color: #d32ce6; } /* Засекречене (Рожевий) */
+.store-card.contraband::after { background-color: #e4ae39; }  /* Контрабанда (Золотий) */
+.store-card.restricted::after { background-color: #8847ff; }  /* Заборонене (Фіолетовий) */
+.store-card.mil-spec::after { background-color: #4b69ff; }    /* Армійське (Синій) */
+.store-card.consumer::after { background-color: #b0c3d9; }    /* Ширвжиток (Сірий) */

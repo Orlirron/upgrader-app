@@ -1,0 +1,17 @@
+ [
+    { "id": 101, "name": "M4A4 | Howl", "price": 2100.00, "rarity": "contraband", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914841.png" },
+  { "id": 102, "name": "Glock-18 | Fade", "price": 950.00, "rarity": "covert", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914902.png" },
+  { "id": 103, "name": "M9 Bayonet | Doppler", "price": 1200.00, "rarity": "covert", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3915525.png" },
+  { "id": 104, "name": "Butterfly Knife | Fade", "price": 2800.00, "rarity": "covert", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3915509.png" },
+  { "id": 105, "name": "Karambit | Doppler", "price": 3500.00, "rarity": "covert", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3915517.png" },
+  { "id": 106, "name": "AK-47 | Fire Serpent", "price": 800.00, "rarity": "classified", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914758.png" },
+  { "id": 107, "name": "AWP | Dragon Lore", "price": 1500.00, "rarity": "covert", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914857.png" },
+  { "id": 108, "name": "M4A1-S | Hyper Beast", "price": 400.00, "rarity": "classified", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914842.png" },
+  { "id": 109, "name": "P90 | Emerald Dragon", "price": 300.00, "rarity": "classified", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914393.png" },
+  { "id": 110, "name": "USP-S | Orion", "price": 150.00, "rarity": "classified", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3915153.png" },
+  { "id": 111, "name": "Desert Eagle | Blaze", "price": 250.00, "rarity": "classified", "img":"https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914932.png" },
+  { "id": 112, "name": "FAMAS | Styx", "price": 75.00, "rarity": "restricted", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914701.png" },
+  { "id": 118, "name": "R8 Revolver | Reboot", "price": 20.00, "rarity": "restricted", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914680.png" },
+  { "id": 119, "name": "XM1014 | Tranquility", "price": 15.00, "rarity": "restricted", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914681.png" },
+  { "id": 120, "name": "Sawed-Off | Origami", "price": 10.00, "rarity": "restricted", "img": "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/images/skins/3914682.png" }
+ ]
